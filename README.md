@@ -1,2 +1,2 @@
 # gfgCodes
-This repo contains solution of all the problems of DSA GFG course
+This repo contains solution of the problems of DSA GFG course
